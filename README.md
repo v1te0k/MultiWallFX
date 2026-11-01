@@ -4,6 +4,21 @@
 
 Made with ❤️ by [**v1te0k**](https://github.com/v1te0k).
 
+[![Release](https://img.shields.io/github/v/release/v1te0k/MultiWallFX?color=00d4aa&label=Latest%20Release)](https://github.com/v1te0k/MultiWallFX/releases/latest)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue)](https://github.com/v1te0k/MultiWallFX)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+---
+
+## 📥 Download & Quick Start
+
+No installation required! Just download and run:
+
+- 📦 **[Download MultiWallFX-v1.0.0-Windows.zip](https://github.com/v1te0k/MultiWallFX/releases/download/v1.0.0/MultiWallFX-v1.0.0-Windows.zip)** (Recommended - includes all configs)
+- 🚀 **[Download Standalone MultiWallFX.exe](https://github.com/v1te0k/MultiWallFX/releases/download/v1.0.0/MultiWallFX.exe)** (Direct single executable)
+
+You can also view all versions on the **[Releases Page](https://github.com/v1te0k/MultiWallFX/releases)**.
+
 ---
 
 ## ✨ Features
