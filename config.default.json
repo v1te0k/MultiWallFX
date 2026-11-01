@@ -1,0 +1,25 @@
+{
+  "StartWithWindows": false,
+  "HasSeenWelcome": false,
+  "RandomizeOnStartup": true,
+  "EnableSlideshow": true,
+  "IntervalSeconds": 300,
+  "PauseWhileGaming": true,
+  "RandomInterval": true,
+  "RandomIntervalMinSeconds": 30,
+  "RandomIntervalMaxSeconds": 180,
+  "RandomPhoto": true,
+  "EnableTransitions": true,
+  "DisableAnimationWhenCovered": true,
+  "TransitionType": "Fade",
+  "TransitionDurationMs": 2500,
+  "EasingType": "Cubic",
+  "Monitors": [],
+  "LockScreen": {
+    "Enabled": false,
+    "RandomizeOnStartup": true,
+    "RandomizeOnTimer": false,
+    "ImagePaths": [],
+    "LastAppliedImage": ""
+  }
+}

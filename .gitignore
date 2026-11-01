@@ -1,0 +1,16 @@
+# Build outputs
+bin/
+obj/
+*.exe
+*.pdb
+
+# Local configs and logs with personal paths
+config.json
+app_debug.log
+*.log
+
+# User environment
+.vs/
+.vscode/
+*.user
+
